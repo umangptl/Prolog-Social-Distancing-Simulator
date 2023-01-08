@@ -37,5 +37,5 @@ solve([13,0],24,[25,25],[[20,4],[13,7],[4,19]],P).
 P = [[13, 0], [13, 1], [12, 1], [11, 1], [10, 1], [9, 1], [9, 2], [8, 2], [8, 3], [7, 3], [7, 4], [7, 5], [7, 6], [7, 7], [7, 8], [7, 9], [7, 10], [7, 11], [7, 12],
 [7, 13], [8, 13], [8, 14], [9, 14], [9, 15], [10, 15], [10, 16], [10, 17], [10, 18], [10, 19], [10, 20], [10, 21], [10, 22], [10, 23], [10, 24]] 
 
+<img width="1097" alt="GUI picture" src="https://github.com/umangptl/Programming-Languages-Social-Distancing-Simulator/blob/main/distance.png">
 
-https://github.com/umangptl/Programming-Languages-Social-Distancing-Simulator/blob/main/distance.png
