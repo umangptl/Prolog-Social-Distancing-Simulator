@@ -39,5 +39,5 @@ P = [[13, 0], [13, 1], [12, 1], [11, 1], [10, 1], [9, 1], [9, 2], [8, 2], [8, 3]
 
 Example
 
-<img width="800" alt="GUI picture" src="https://github.com/umangptl/Programming-Languages-Social-Distancing-Simulator/blob/main/distance.png">
+<img width="500" alt="GUI picture" src="https://github.com/umangptl/Programming-Languages-Social-Distancing-Simulator/blob/main/distance.png">
 
