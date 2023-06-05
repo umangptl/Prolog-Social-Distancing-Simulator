@@ -1,4 +1,4 @@
-# Social Distancing Simulator Prolog
+# Prolog Social Distancing Simulator 
 
 This Prolog program aims to find a path through a park while adhering to social distancing rules. It divides the park into a grid and calculates distances using the Pythagorean theorem to ensure a safe distance from other park-goers.
 
